@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+	                
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+			    
+body {font-family:
+sans-serif;color: #002244;background-color:#F0F5FF;font-size: 14px;   }
+hr {border:0; height: 12px; box-shadow:inset 0 12px 12px -12px rgba(0,0,0,0.5);}
+h1 {font-size: 26px}
+h2 {font-size: 20px}
+
+ul {list-style-type: square}
+ul ul {list-style-type: disc}
+ul ul ul {list-style-type: circle}
+ol {list-style-type: upper-roman}
+
+a:link {color: #600060}
+a:visited {color: #525252}
+a:hover {color: #000000}
+a:active {color: #FF0000}
+
+p {text-indent: 0px; padding-left: 10px; padding-right: 10px;} 
+span.c5 { font-size: 308%; font-family: David CLM; text-shadow: 5px 5px 5px #aaa; }
+span.c4 { font-size: 256%; font-family: David CLM; text-shadow: 5px 5px 5px #aaa; }
+span.c3 { font-size: 164%; font-family: David CLM; text-shadow: 5px 5px 5px #aaa; }
+span.c2 { font-size: 132%; font-family: David CLM; }
+span.c1 { font-size: 100%; font-family: David CLM; }
+
+
+
+
